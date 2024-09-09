@@ -1,7 +1,7 @@
 # Automation Lab for Modern FEE, Day 1.
 ## _Webdriverio AND Cucumber?_
 
-_Readable on web at https://github.com/Chaparro/webdriverio-cucumber-boilerplate/blob/main/lab/features/1stday/README.md_
+_Readable on web at https://github.com/Chaparro/webdriverio-cucumber-boilerplate/blob/main/lab/features/1stday/1stREADME.md_
 
 WebdriverIO is a powerful E2E and Component Test Framework, and Cucumber is a tool that integrates BDD into code, in order to connect step definitions (behaviors) with features and scenarios (order of these behaviors written in Gherkin, the Cucumber Syntax).
 

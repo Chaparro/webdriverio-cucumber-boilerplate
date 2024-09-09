@@ -1,7 +1,7 @@
 # Automation Lab for Modern FEE, Day 2.
 ## _Custom Steps!, and a wide variety of webdriver actions._
 
-_Readable on web at https://github.com/Chaparro/webdriverio-cucumber-boilerplate/blob/main/lab/features/2ndday/README.md_
+_Readable on web at https://github.com/Chaparro/webdriverio-cucumber-boilerplate/blob/main/lab/features/2ndday/2ndREADME.md_
 
 
 ### Reminder:
