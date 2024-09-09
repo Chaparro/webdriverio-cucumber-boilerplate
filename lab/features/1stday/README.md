@@ -12,6 +12,7 @@ In this lab we will explore the basic functionality of WebdriverIO through our m
 - Complete the quick setup on the main project's README.
 - Open project folder and a terminal targeting the base folder.
 - Take a look at the feature files stored in 'lab/features/1stday'
+- ### Every feature file showcases different Webdriverio functionality, so it's important to understand, and then run every one of these, that's the point of this workshop!
 
 In order to run a specific test, run a command like this on the terminal:
 
